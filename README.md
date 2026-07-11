@@ -134,12 +134,7 @@ The system:
 
 ---
 
-## 👥 Team Members
 
-* **Mehak Rajshree** (112)
-* **Japneet Kaur** (83)
-* **Payal** (139)
-* **Priyanshu Roy** (150)
 
 ---
 
