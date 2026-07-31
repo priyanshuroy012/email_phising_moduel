@@ -30,7 +30,7 @@ THREAT_KEYWORDS = [
 # ----------------------
 # THEME SWITCH (toggle checkbox)
 # ----------------------
-toggle = st.sidebar.checkbox("🌙 Dark Mode", value=True)
+toggle = st.sidebar.checkbox("🌙 Dark Mode", value=False)
 THEME = "Dark" if toggle else "Light"
 
 # CSS blocks for themes and animated cards
