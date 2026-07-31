@@ -1,0 +1,10 @@
+streamlit
+joblib
+numpy
+scikit-learn
+lightgbm
+tldextract
+python-whois
+ipwhois
+requests
+reportlab
